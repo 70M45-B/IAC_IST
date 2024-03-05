@@ -1,5 +1,5 @@
 # IAC_IST
-##Introduction to Computer Architecture project
+## Introduction to Computer Architecture project
 This project aims to practice the fundamentals of the Computer Architecture field, specifically assembly language programming, peripherals, and interrupts.
 
 **Check the projects README for more detailed information!**
