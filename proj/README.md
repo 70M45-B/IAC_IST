@@ -2,7 +2,7 @@
 - Assembly on PEPE 16, a special 16 bit processor for education
 
 ## Project Description:
-This project aims to practice the fundamentals of the Computer Architecture field, specifically assembly language programming, peripherals, and interrupts. In the coming decades, humanity will continue its exploration of the solar system, taking astronauts where no one has gone before. The goal of this project is to create a simulation game of interplanetary travel, featuring a spaceship crewed by intrepid astronauts venturing beyond Mars, navigating through the asteroid belt located between the orbits of Mars and Jupiter.
+In the coming decades, humanity will continue its exploration of the solar system, taking astronauts where no one has gone before. The goal of this project is to create a simulation game of interplanetary travel, featuring a spaceship crewed by intrepid astronauts venturing beyond Mars, navigating through the asteroid belt located between the orbits of Mars and Jupiter.
 
 This zone is perilous due to a high number of asteroids, and it is crucial to avoid a collision, which would be fatal. It is possible to launch a probe with a missile to destroy an asteroid, but this consumes precious energy. However, some asteroids contain valuable metals and compounds that can be mined by a robot sent by the ship to increase its energy, essential for the ion thrusters.
 
