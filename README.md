@@ -9,7 +9,4 @@ You just need to download it -> [simulador-1-5-2023.jar](https://fenix.tecnico.u
 [projeto-beyond-Mars.cir](https://github.com/tomasbernardino/IAC_IST/blob/main/proj/projeto-beyond-Mars.cir)(proj folder) on the load button (on the top) and then open the "Simulation" tab, and double click on the smooth rectangles labeled media center, and keyboard to be able to play the game.
 
 **Check the project's README for more detailed information!**
-```bash
-# clone the repository
-git clone https://github.com/tomasbernardino/IAC_IST.git
-```
+
